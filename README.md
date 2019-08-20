@@ -1,3 +1,5 @@
+#### NFL Daily Posts Discuss
+
 This project is a challenge to the challenges taken to reinforce students' knowledge of the Rocketseat full stack course.
 
 I was asked to create a static page in React to get acquainted with the concepts requested, in which case I did a sport-related project that I like to make it as satisfying as possible.
@@ -5,6 +7,10 @@ I was asked to create a static page in React to get acquainted with the concepts
 ### Instructions:
 
 In the project directory, you can run:
+
+`npm install`
+
+After finish you can run:
 
 ### `npm start`
 
